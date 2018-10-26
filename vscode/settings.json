@@ -1,0 +1,51 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "files.autoSave": "onFocusChange",
+    "editor.quickSuggestions": true,
+    "editor.minimap.enabled": false,
+    "editor.wordWrap": "on",
+    "editor.multiCursorModifier": "alt",
+    "editor.fontSize": 10.4,
+    "editor.renderWhitespace": "all",
+    "editor.rulers": [
+        80
+    ],
+    "search.exclude": {
+        "**/.git": true,
+        "**/tmp": true,
+        "**/log": true,
+        "**/.idea": true,
+        "**/public/": true,
+        "**/.worker/": true,
+        "**/dist/": true,
+        "**/node_modules": true
+    },
+    "window.zoomLevel": -1,
+    "git.confirmSync": false,
+    "terminal.integrated.fontSize": 11.4,
+    "terminal.integrated.shellArgs.osx": [],
+    "files.exclude": {
+        "**/.git": true,
+        "node_modules": false,
+        ".vscode": true,
+        ".sass-cache": true,
+        ".vimrc": true,
+        ".ackrc": true,
+        ".ruby-version": true
+    },
+    "workbench.startupEditor": "newUntitledFile",
+    "emmet.syntaxProfiles": {
+        "handlebars": "html"
+    },
+    "explorer.confirmDragAndDrop": false,
+    "html.format.enable": false,
+    "extensions.ignoreRecommendations": true,
+    "explorer.confirmDelete": false,
+    "git.autofetch": true,
+    "workbench.iconTheme": "vscode-great-icons",
+    "workbench.colorTheme": "Default Light+",
+    "editor.largeFileOptimizations": true,
+    "update.enableWindowsBackgroundUpdates": false,
+    "editor.suggestSelection": "recentlyUsedByPrefix",
+    "editor.tabSize": 2
+}
